@@ -1,4 +1,4 @@
-# Setup Docker with Windows Terminal
+# Setup Docker with Windows Terminal and Oh My ZSH
 
 ![image](./images/terminal.png)
 
