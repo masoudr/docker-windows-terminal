@@ -30,7 +30,7 @@ Don't forget to execute `wsl --set-version <distribution name> 2` to set WSL 2 f
         "backgroundImageStretchMode" : "fill"
     ```
 
-    * Your final configuration file would looks something like this:
+    * Your final configuration file would look something like this:
 
     ```JSON
     {
